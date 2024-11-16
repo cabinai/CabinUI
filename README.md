@@ -1,10 +1,8 @@
 # CabinUI
-# 我做了一个生成UI的AI系统！
-
-嘿，大家好！🎉  
-
-
-👉 **UI生成工具**：[马上试试](https://ui.cabinai.cn/)  
+所见即所得的AI生成UI工具
+⭐支持自定义接口
+当前还未开源，敬请期待
+https://ui.cabinai.cn
 
 
 
