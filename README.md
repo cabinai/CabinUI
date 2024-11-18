@@ -1,6 +1,6 @@
 # 🌟 Cabin UI
 
- **Cabin UI**，一个支持 **实时AI驱动界面** 与 **交互式UI构建** 的AI工具。无论你是开发者还是设计师，这里都能让你的 UI 构思迅速变为现实。
+ **Cabin UI**，轻松与AI大模型进行 **交互式UI构建** ，快速制作高级且美观的UI页面。
 
 ## ✨ 功能亮点
 ![image](https://github.com/user-attachments/assets/bff3017e-399d-4be9-8eb0-d47548ee9643)
