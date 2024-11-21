@@ -1,4 +1,4 @@
-# 🌟 Cabin UI
+# 🌟 Cabin UI - AI生成UI工具
 
  **Cabin UI**，轻松与AI大模型进行 **交互式UI构建** ，快速制作高级且美观的UI页面。
 
